@@ -1,0 +1,22 @@
+----------Thời Gian : 2024-08-23 07:53:11--------
+- Name : chickun12
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Linh lang hồ điệp
+- Số Lượng Mua : 1
+- Lượng Mua : -25
+- Xu Mua : 0
+- Lượng Cũ : 1982784585
+- Lượng Mới : 1982784560
+- Xu Cũ : 436250000
+- Xu Mới : 436250000
+----------Thời Gian : 2024-08-23 17:44:58--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 10
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 1999969405
+- Lượng Mới : 1999964405
+- Xu Cũ : 1002000000
+- Xu Mới : 1002000000

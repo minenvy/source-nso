@@ -1,0 +1,99 @@
+----------Thời Gian : 2024-08-22 14:44:19--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Long Hổ Lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 1999922905
+- Lượng Mới : 1999920905
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2024-08-22 18:40:24--------
+- Name : facebook
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 1999000000
+- Lượng Mới : 1998997000
+- Xu Cũ : 1999990000
+- Xu Mới : 1999990000
+----------Thời Gian : 2024-08-22 20:48:10--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -25
+- Xu Mua : 0
+- Lượng Cũ : 1999920905
+- Lượng Mới : 1999920880
+- Xu Cũ : 1001000000
+- Xu Mới : 1001000000
+----------Thời Gian : 2024-08-22 20:56:23--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thí Luyện Thiếp
+- Số Lượng Mua : 1
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 1999920880
+- Lượng Mới : 1999915880
+- Xu Cũ : 1001000000
+- Xu Mới : 1001000000
+----------Thời Gian : 2024-08-22 20:57:02--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -25
+- Xu Mua : 0
+- Lượng Cũ : 1999915880
+- Lượng Mới : 1999915855
+- Xu Cũ : 1001000000
+- Xu Mới : 1001000000
+----------Thời Gian : 2024-08-22 21:00:20--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lệnh bài hang động
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 1999915855
+- Lượng Mới : 1999915805
+- Xu Cũ : 1001000000
+- Xu Mới : 1001000000
+----------Thời Gian : 2024-08-22 21:28:17--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 1999915805
+- Lượng Mới : 1999912805
+- Xu Cũ : 1001000000
+- Xu Mới : 1001000000
+----------Thời Gian : 2024-08-22 21:53:20--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cơm nắm
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 1999963305
+- Lượng Mới : 1999963305
+- Xu Cũ : 1002000000
+- Xu Mới : 1002000000
+----------Thời Gian : 2024-08-22 21:53:45--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Tempura
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 1999963405
+- Lượng Mới : 1999963405
+- Xu Cũ : 1002000000
+- Xu Mới : 1002000000

@@ -1,0 +1,48 @@
+----------Thời Gian : 2024-08-22 14:50:39--------
+- Name : phong
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-08-22 14:50:42--------
+- Name : phong
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2024-08-22 18:54:27--------
+- Name : ukulele
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2024-08-22 18:54:29--------
+- Name : ukulele
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-08-22 21:52:25--------
+- Name : admin
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 1999912805
+- Lượng Mới : 1999962805
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-08-22 21:52:29--------
+- Name : admin
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 1999962805
+- Lượng Mới : 1999963305
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2024-08-22 21:53:28--------
+- Name : admin
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 1999963305
+- Lượng Mới : 1999963355
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2024-08-22 22:34:24--------
+- Name : admin
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 1999963405
+- Lượng Mới : 1999969405
+- Lượng Thay Đổi :6000 Lượng 
